@@ -21,7 +21,7 @@ This repository contains a Python code to convert electrophysiology files to Num
 
 MIT License
 
-Copyright (c) [2016] [Charles C. Horn]
+Copyright (c) [2016] [Charles C. Horn, David M. Rosenberg]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
